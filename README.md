@@ -1,2 +1,2 @@
 # actividades-norma
-primer proyecto git
+primer proyecto git hola norma
