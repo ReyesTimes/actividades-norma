@@ -1,7 +1,12 @@
-body {
-    background-color: black;
+body, ul {
+    margin: 0px;
 }
 
-header {
+.header {
     background-color: pink;
+}
+
+.header ul {
+  display: flex;
+  list-style: none;
 }
