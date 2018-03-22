@@ -1,4 +1,4 @@
-# Inicio
+# Inicio :cat:
 Este es una guia de pasos para poder entender lo
 necesario de acuerdo a tareas y aprendizaje de las 
 herramientras necesarias para aprender a maquetar, programar, 
