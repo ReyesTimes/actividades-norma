@@ -1,0 +1,30 @@
+.body {
+  background: #81DAF5;
+  margin: 0px;
+}
+.header {
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+  display: flex;
+  padding: 0px;
+}
+.header__logo img {
+  width: 200px;
+  padding: 10px;
+}
+
+.header__lista ul {
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  display: flex;
+  font-family: Helvetica;
+  font-size: 22px;
+  color: #0404B4;
+  width: 450px;
+}
+
+.header__lista ul li {
+  padding: 20px;
+}
