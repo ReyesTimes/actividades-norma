@@ -19,12 +19,20 @@
   align-items: center;
   list-style: none;
   display: flex;
-  font-family: Helvetica;
+  font-family: Century Gothic;
   font-size: 22px;
   color: #0404B4;
   width: 450px;
 }
-
 .header__lista ul li {
   padding: 20px;
+}
+
+.section__img {
+  padding-top:50px;
+  padding-bottom: 50px;
+}
+
+.article {
+  
 }
